@@ -1,5 +1,4 @@
-package linearalgebra;
-import linearalgebra.Vector;
+package linearalgebra.src;
 
 /**
  * The Matrix class stores a 2D array of doubles and provides
