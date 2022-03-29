@@ -1,10 +1,5 @@
-package linearalgebra.src.vector;
-
-import linearalgebra.src.Printer;
-import linearalgebra.src.Vector;
-
 public class AbstandEinesPunktesVonEinerGeraden {
-    private Printer printer = new Printer();
+    public Printer printer = new Printer();
     
     
     public void viaParallelogram(){

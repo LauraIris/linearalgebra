@@ -1,0 +1,19 @@
+
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÇÉ¾Ğ
+t
+java:S3012)"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(à…ÇÙøÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(¾‡‡øÿÿÿÿ
+O	java:S106õ"9Replace this use of System.out or System.err by a logger.(ÉİÓÇ
+e
+java:S1192Ä"NDefine a constant instead of duplicating this literal "Invalid row: " 4 times.(ÜƒÃ‹
+h
+java:S1192ã"QDefine a constant instead of duplicating this literal "Invalid column: " 3 times.(‘¦Â‡
+K
+java:S1066û"/Merge this if statement with the enclosing one.(åÛÍŞúÿÿÿÿ
+:
+java:S1643°	"Use a StringBuilder instead.(Œç8ıŒ¸¨ı/
+8
+java:S1643³	"Use a StringBuilder instead.(€üáñüÿÿÿÿ
+3
+java:S1643µ	"Use a StringBuilder instead.(ñÿÊè

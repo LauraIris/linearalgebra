@@ -1,0 +1,12 @@
+
+U
+java:S3878"8Remove this array creation and simply pass the elements.(ù±‰¡8Ø…Ñ¨ı/
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(ƒÒ›Êşÿÿÿÿ8Ù…Ñ¨ı/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÒ›Êşÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ™Ûâ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œıŸüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÄÊ´
+p
+java:S1104"SMake printer a static final constant or non-public and provide accessors if needed.(‹üüà8€ûÎ¨ı/

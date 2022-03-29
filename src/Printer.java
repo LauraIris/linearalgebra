@@ -1,5 +1,3 @@
-package linearalgebra.src;
-
 public class Printer {
     public void printVector(String name, Vector vector){
         System.out.println(name+" = "+vector.toString());

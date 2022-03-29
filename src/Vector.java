@@ -1,5 +1,3 @@
-package linearalgebra.src;
-
 /**
  * The Vector class provides basic vector operations for Euclidean vectors
  * represented as arrays of real numbers. 

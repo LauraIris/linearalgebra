@@ -1,9 +1,6 @@
-package linearalgebra.src;
-
-import linearalgebra.src.vector.AbstandEinesPunktesVonEinerGeraden;
-
 public class Main {
     public static void main(String[] args) {
+        Printer printer = new Printer();
         AbstandEinesPunktesVonEinerGeraden x = new AbstandEinesPunktesVonEinerGeraden();
         x.viaParallelogram();
     }
